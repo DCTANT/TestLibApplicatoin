@@ -18,7 +18,7 @@ package com.example.mylib2.wheel.adapters;
 
 import android.content.Context;
 
-import com.example.dctlib.wheel.WheelAdapter;
+import com.example.mylib2.wheel.WheelAdapter;
 
 
 /**

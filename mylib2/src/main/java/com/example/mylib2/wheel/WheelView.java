@@ -32,8 +32,8 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 
-import com.example.dctlib.R;
-import com.example.dctlib.wheel.adapters.WheelViewAdapter;
+import com.example.mylib2.R;
+import com.example.mylib2.wheel.adapters.WheelViewAdapter;
 
 import java.util.LinkedList;
 import java.util.List;

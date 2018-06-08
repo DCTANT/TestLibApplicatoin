@@ -10,9 +10,9 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.example.dctlib.FileUtil;
-import com.example.dctlib.NetworkUtil;
-import com.example.dctlib.TimeUtil;
+import com.example.mylib2.FileUtil;
+import com.example.mylib2.NetworkUtil;
+import com.example.mylib2.TimeUtil;
 import com.google.gson.Gson;
 
 import java.lang.reflect.Field;

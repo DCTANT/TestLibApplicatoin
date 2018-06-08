@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.example.dctlib.R;
+import com.example.mylib2.R;
 
 
 /**

@@ -30,9 +30,9 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.dctlib.R;
-import com.example.dctlib.widget.viewpagerindicator.view.SpringView;
-import com.example.dctlib.widget.viewpagerindicator.view.TabClickListener;
+import com.example.mylib2.R;
+import com.example.mylib2.widget.viewpagerindicator.view.SpringView;
+import com.example.mylib2.widget.viewpagerindicator.view.TabClickListener;
 
 import java.util.ArrayList;
 import java.util.List;

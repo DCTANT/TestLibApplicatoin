@@ -34,7 +34,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.widget.ImageView;
 
-import com.example.dctlib.R;
+import com.example.mylib2.R;
 
 
 @SuppressWarnings("UnusedDeclaration")

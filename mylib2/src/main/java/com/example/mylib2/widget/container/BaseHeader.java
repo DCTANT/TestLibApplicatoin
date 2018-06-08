@@ -2,7 +2,8 @@ package com.example.mylib2.widget.container;
 
 import android.view.View;
 
-import com.example.dctlib.widget.SpringView;
+import com.example.mylib2.widget.SpringView;
+
 
 /**
  * Created by Administrator on 2016/3/24.

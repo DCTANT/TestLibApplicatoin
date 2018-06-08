@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.dctlib.DensityUtil;
-import com.example.dctlib.R;
+import com.example.mylib2.DensityUtil;
+import com.example.mylib2.R;
 
 
 public class TextDialog extends Dialog

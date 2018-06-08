@@ -6,8 +6,8 @@ import android.util.TypedValue;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 
-import com.example.dctlib.DensityUtil;
-import com.example.dctlib.R;
+import com.example.mylib2.DensityUtil;
+import com.example.mylib2.R;
 
 
 public class ProgressDialog extends StateDialog {
